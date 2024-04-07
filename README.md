@@ -3,7 +3,7 @@
 ### Kindly Star this Repository ⚡
 ## Mail to : suriyaa2002@gmail.com for access to Full Project Code.
 
-Welcome to our Ayurveda Android Application repository! This application is designed to provide users with a comprehensive guide to Ayurveda, including yoga exercises, information on Ayurvedic medicines, and more.
+Welcome to our Ayurveda Android Application! This application is designed to provide users with a comprehensive guide to Ayurveda, including Health Tips, Skin Care and information on Ayurvedic food based medicines, and more.
 
 ### Screenshots
 Landing Page | Home | Categories
@@ -15,12 +15,12 @@ Sub Category | Info | About us
 ![LawDisp - screenshot](Media/SubCategory.jpeg) | ![Contacts Adapt - screenshot](Media/Info.jpeg) | ![self defense - screenshot](Media/Aboutus.jpeg)
 
 ### Key Features
-1) Yoga Exercises: Explore a variety of yoga exercises tailored to different needs and skill levels.
-2) Ayurvedic Medicines: Access detailed information about various Ayurvedic medicines and their uses.
-3) Dosha Analysis: Learn about your Ayurvedic body constitution (dosha) and get personalized recommendations.
-4) Remedies and Tips: Discover natural remedies and lifestyle tips for maintaining balance and well-being.
-5) Search Functionality: Easily find specific yoga exercises, medicines, or topics of interest.
-6) Bookmarking: Save your favorite exercises, medicines, or articles for quick access.
+1) Comprehensive Ayurvedic Guide: Access a wealth of information on Ayurveda, covering health tips, skincare, and Ayurvedic food-based medicines.
+2) Health Tips: Receive valuable insights and recommendations for maintaining overall health and well-being.
+3) Skin Care: Explore Ayurvedic remedies and practices for nurturing healthy and radiant skin.
+4) Ayurvedic Food-based Medicines: Learn about the healing properties of various foods and how they can be used as medicines according to Ayurvedic principles.
+5) Search Functionality: Easily search for specific topics, remedies, or tips within the application.
+6) Bookmarking: Save your favorite tips, skincare routines, or medicinal recipes for quick reference.
 
 ### Installation
 To install the Ayurveda Android Application, follow these steps:
